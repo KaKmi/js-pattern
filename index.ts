@@ -1,1 +1,1 @@
-import Decorator  from './decorator';
+import Decorator  from  'decorator'
