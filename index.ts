@@ -1,0 +1,1 @@
+import Decorator  from './decorator';
